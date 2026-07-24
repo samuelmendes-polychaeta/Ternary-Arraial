@@ -6,8 +6,6 @@ editor:
     wrap: 72
 ---
 
-# README
-
 
 ## Projeto para particionar a betadiversidade de Arraial do Cabo
 

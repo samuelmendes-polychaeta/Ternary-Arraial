@@ -1,8 +1,6 @@
 # README
 
 
-# README
-
 ## Projeto para particionar a betadiversidade de Arraial do Cabo
 
 Neste projeto somos capazes de decompor de forma conjunta a

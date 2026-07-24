@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2200 1600">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3, .st4, .st5 {
+        fill: none;
+      }
+
+      .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16 {
+        fill: #111;
+      }
+
+      .st7, .st1, .st2, .st17 {
+        stroke: #111;
+      }
+
+      .st7, .st3, .st17 {
+        stroke-width: 3px;
+      }
+
+      .st8 {
+        font-size: 34px;
+      }
+
+      .st8, .st18, .st9, .st10, .st11, .st12, .st19, .st13, .st14, .st20, .st15, .st21, .st22, .st16 {
+        isolation: isolate;
+      }
+
+      .st8, .st9, .st12, .st14, .st15 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st18 {
+        font-size: 24px;
+      }
+
+      .st18, .st10, .st11, .st19, .st13, .st20, .st21, .st22, .st16 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st18, .st19, .st20, .st21, .st22 {
+        fill: #333;
+      }
+
+      .st1, .st2 {
+        stroke-width: 4px;
+      }
+
+      .st2 {
+        stroke-dasharray: 12 10;
+      }
+
+      .st9 {
+        font-size: 27px;
+      }
+
+      .st23 {
+        fill: #f7f7f7;
+        stroke: #333;
+      }
+
+      .st23, .st5 {
+        stroke-width: 2px;
+      }
+
+      .st10, .st12 {
+        font-size: 25px;
+      }
+
+      .st24, .st17 {
+        fill: #fff;
+      }
+
+      .st11, .st14, .st21 {
+        font-size: 22px;
+      }
+
+      .st3, .st5 {
+        stroke: #222;
+      }
+
+      .st19 {
+        font-size: 18px;
+      }
+
+      .st13, .st20 {
+        font-size: 19px;
+      }
+
+      .st4 {
+        stroke: #d9d9d9;
+      }
+
+      .st25 {
+        fill: #f8f8f8;
+        stroke: #ddd;
+      }
+
+      .st15 {
+        font-size: 32px;
+      }
+
+      .st22 {
+        font-size: 17px;
+      }
+
+      .st16 {
+        font-size: 20px;
+      }
+    </style>
+  </defs>
+  <rect class="st24" width="2200" height="1600"/>
+  <text class="st8" transform="translate(360.96 50)"><tspan x="0" y="0">Conceptual hypotheses: functional resemblance of annelid assemblages in Arraial do Cabo</tspan></text>
+  <text class="st18" transform="translate(678.41 84)"><tspan x="0" y="0">Protected × exposed regions crossed with non-upwelling × upwelling conditions</tspan></text>
+  <rect class="st5" x="70" y="110" width="1010" height="680"/>
+  <text class="st15" transform="translate(90 152)"><tspan x="0" y="0">A)</tspan></text>
+  <text class="st9" transform="translate(155 152)"><tspan x="0" y="0">Ternary expectation</tspan></text>
+  <rect class="st5" x="1120" y="110" width="1010" height="680"/>
+  <text class="st15" transform="translate(1140 152)"><tspan x="0" y="0">B)</tspan></text>
+  <text class="st9" transform="translate(1205 152)"><tspan x="0" y="0">Exposure and functional turnover</tspan></text>
+  <rect class="st5" x="70" y="850" width="1010" height="680"/>
+  <text class="st15" transform="translate(90 892)"><tspan x="0" y="0">C)</tspan></text>
+  <text class="st9" transform="translate(155 892)"><tspan x="0" y="0">Upwelling pulse and beta redundancy</tspan></text>
+  <rect class="st5" x="1120" y="850" width="1010" height="680"/>
+  <text class="st15" transform="translate(1140 892)"><tspan x="0" y="0">D)</tspan></text>
+  <text class="st9" transform="translate(1205 892)"><tspan x="0" y="0">Trait syndromes along the habitat template</tspan></text>
+  <polygon class="st3" points="270 601.05 710 601.05 490 220 270 601.05"/>
+  <line class="st4" x1="314" y1="524.84" x2="666" y2="524.84"/>
+  <line class="st4" x1="358" y1="601.05" x2="534" y2="296.21"/>
+  <line class="st4" x1="358" y1="601.05" x2="314" y2="524.84"/>
+  <line class="st4" x1="358" y1="448.63" x2="622" y2="448.63"/>
+  <line class="st4" x1="446" y1="601.05" x2="578" y2="372.42"/>
+  <line class="st4" x1="446" y1="601.05" x2="358" y2="448.63"/>
+  <line class="st4" x1="402" y1="372.42" x2="578" y2="372.42"/>
+  <line class="st4" x1="534" y1="601.05" x2="622" y2="448.63"/>
+  <line class="st4" x1="534" y1="601.05" x2="402" y2="372.42"/>
+  <line class="st4" x1="446" y1="296.21" x2="534" y2="296.21"/>
+  <line class="st4" x1="622" y1="601.05" x2="666" y2="524.84"/>
+  <line class="st4" x1="622" y1="601.05" x2="446" y2="296.21"/>
+  <text class="st14" transform="translate(380.6 198)"><tspan x="0" y="0">Rβ: beta redundancy</tspan></text>
+  <text class="st14" transform="translate(133.69 646.05)"><tspan x="0" y="0">SBC: taxonomic similarity</tspan></text>
+  <text class="st14" transform="translate(578.61 646.05)"><tspan x="0" y="0">DKG: functional turnover</tspan></text>
+  <path class="st0" d=""/>
+  <path class="st6" d="M469.13,426.96l1.07,17.86-14.93-9.86,13.86-8Z"/>
+  <path class="st6" d="M470.2,444.82" marker-end="url(#arrow)"/>
+  <path class="st0" d=""/>
+  <path class="st6" d="M504.28,393.19l12.12-13.15,3.25,17.59-15.37-4.44Z"/>
+  <path class="st6" d="M516.4,380.04" marker-end="url(#arrow)"/>
+  <circle class="st17" cx="461.4" cy="429.58" r="13"/>
+  <circle class="st7" cx="470.2" cy="444.82" r="13"/>
+  <rect class="st17" x="499" y="382.28" width="26" height="26"/>
+  <rect class="st7" x="503.4" y="367.04" width="26" height="26"/>
+  <text class="st14" transform="translate(790 235)"><tspan x="0" y="0">Symbols</tspan></text>
+  <circle class="st17" cx="790" cy="277" r="11"/>
+  <text class="st13" transform="translate(822 285)"><tspan x="0" y="0">Protected, non-upwelling</tspan></text>
+  <circle class="st7" cx="790" cy="319" r="11"/>
+  <text class="st13" transform="translate(822 327)"><tspan x="0" y="0">Protected, upwelling</tspan></text>
+  <rect class="st17" x="779" y="350" width="22" height="22"/>
+  <text class="st13" transform="translate(822 369)"><tspan x="0" y="0">Exposed, non-upwelling</tspan></text>
+  <rect class="st7" x="779" y="392" width="22" height="22"/>
+  <text class="st13" transform="translate(822 411)"><tspan x="0" y="0">Exposed, upwelling</tspan></text>
+  <rect class="st25" x="125" y="675" width="900" height="80"/>
+  <text class="st20" transform="translate(145 705)"><tspan x="0" y="0">Prediction: spatial centroids remain separated across seasons; upwelling chiefly reallocates</tspan></text>
+  <text class="st20" transform="translate(145 732)"><tspan x="0" y="0">resemblance away from DKG and toward Rβ/SBC rather than fully homogenizing regions.</tspan></text>
+  <line class="st3" x1="1245" y1="565" x2="1965" y2="565"/>
+  <line class="st3" x1="1245" y1="565" x2="1245" y2="255"/>
+  <text class="st11" transform="translate(1386.1172 615)"><tspan x="0" y="0">Hydrodynamic exposure / sediment selection</tspan></text>
+  <text class="st10" transform="translate(1185 437.0872) rotate(-90)"><tspan x="0" y="0">DKG</tspan></text>
+  <text class="st13" transform="translate(1204.3374 649)"><tspan x="0" y="0">Protected</tspan></text>
+  <text class="st13" transform="translate(1928.0298 649)"><tspan x="0" y="0">Exposed</tspan></text>
+  <polyline class="st1" points="1245 472 1252.2 471.42 1259.4 470.67 1266.6 469.83 1273.8 468.94 1281 468 1288.2 467.02 1295.4 466.01 1302.6 464.97 1309.8 463.9 1317 462.81 1324.2 461.69 1331.4 460.56 1338.6 459.41 1345.8 458.23 1353 457.05 1360.2 455.84 1367.4 454.62 1374.6 453.39 1381.8 452.14 1389 450.88 1396.2 449.61 1403.4 448.32 1410.6 447.02 1417.8 445.71 1425 444.4 1432.2 443.06 1439.4 441.72 1446.6 440.37 1453.8 439.01 1461 437.64 1468.2 436.27 1475.4 434.88 1482.6 433.48 1489.8 432.08 1497 430.66 1504.2 429.24 1511.4 427.81 1518.6 426.38 1525.8 424.93 1533 423.48 1540.2 422.02 1547.4 420.55 1554.6 419.08 1561.8 417.6 1569 416.11 1576.2 414.62 1583.4 413.12 1590.6 411.61 1597.8 410.1 1605 408.58 1612.2 407.06 1619.4 405.52 1626.6 403.99 1633.8 402.44 1641 400.9 1648.2 399.34 1655.4 397.78 1662.6 396.22 1669.8 394.65 1677 393.07 1684.2 391.49 1691.4 389.9 1698.6 388.31 1705.8 386.71 1713 385.11 1720.2 383.51 1727.4 381.89 1734.6 380.28 1741.8 378.66 1749 377.03 1756.2 375.4 1763.4 373.77 1770.6 372.13 1777.8 370.48 1785 368.83 1792.2 367.18 1799.4 365.52 1806.6 363.86 1813.8 362.2 1821 360.53 1828.2 358.85 1835.4 357.18 1842.6 355.49 1849.8 353.81 1857 352.12 1864.2 350.42 1871.4 348.72 1878.6 347.02 1885.8 345.31 1893 343.6 1900.2 341.89 1907.4 340.17 1914.6 338.45 1921.8 336.73 1929 335 1936.2 333.27 1943.4 331.53 1950.6 329.79 1957.8 328.05 1965 326.3"/>
+  <polyline class="st2" points="1245 447.2 1252.2 446.7 1259.4 446.21 1266.6 445.71 1273.8 445.22 1281 444.72 1288.2 444.22 1295.4 443.73 1302.6 443.23 1309.8 442.74 1317 442.24 1324.2 441.74 1331.4 441.25 1338.6 440.75 1345.8 440.26 1353 439.76 1360.2 439.26 1367.4 438.77 1374.6 438.27 1381.8 437.78 1389 437.28 1396.2 436.78 1403.4 436.29 1410.6 435.79 1417.8 435.3 1425 434.8 1432.2 434.3 1439.4 433.81 1446.6 433.31 1453.8 432.82 1461 432.32 1468.2 431.82 1475.4 431.33 1482.6 430.83 1489.8 430.34 1497 429.84 1504.2 429.34 1511.4 428.85 1518.6 428.35 1525.8 427.86 1533 427.36 1540.2 426.86 1547.4 426.37 1554.6 425.87 1561.8 425.38 1569 424.88 1576.2 424.38 1583.4 423.89 1590.6 423.39 1597.8 422.9 1605 422.4 1612.2 421.9 1619.4 421.41 1626.6 420.91 1633.8 420.42 1641 419.92 1648.2 419.42 1655.4 418.93 1662.6 418.43 1669.8 417.94 1677 417.44 1684.2 416.94 1691.4 416.45 1698.6 415.95 1705.8 415.46 1713 414.96 1720.2 414.46 1727.4 413.97 1734.6 413.47 1741.8 412.98 1749 412.48 1756.2 411.98 1763.4 411.49 1770.6 410.99 1777.8 410.5 1785 410 1792.2 409.5 1799.4 409.01 1806.6 408.51 1813.8 408.02 1821 407.52 1828.2 407.02 1835.4 406.53 1842.6 406.03 1849.8 405.54 1857 405.04 1864.2 404.54 1871.4 404.05 1878.6 403.55 1885.8 403.06 1893 402.56 1900.2 402.06 1907.4 401.57 1914.6 401.07 1921.8 400.58 1929 400.08 1936.2 399.58 1943.4 399.09 1950.6 398.59 1957.8 398.1 1965 397.6"/>
+  <text class="st16" transform="translate(1684.2 320.1)"><tspan x="0" y="0">Non-upwelling</tspan></text>
+  <text class="st16" transform="translate(1705.8 397.6)"><tspan x="0" y="0">Upwelling</tspan></text>
+  <path class="st0" d=""/>
+  <path class="st6" d="M1395.4,447.7l8-16,8,16h-16Z"/>
+  <path class="st6" d="M1403.4,431.7" marker-end="url(#arrow)"/>
+  <text class="st19" transform="translate(1425 456.5)"><tspan x="0" y="0">turnover attenuation</tspan></text>
+  <rect class="st25" x="1170" y="680" width="910" height="75"/>
+  <text class="st20" transform="translate(1190 710)"><tspan x="0" y="0">H1–H2: exposure and sedimentary patchiness increase trait turnover under non-upwelling; the</tspan></text>
+  <text class="st20" transform="translate(1190 736)"><tspan x="0" y="0">upwelling pulse should dampen, but not erase, that gradient.</tspan></text>
+  <line class="st3" x1="195" y1="1305" x2="915" y2="1305"/>
+  <line class="st3" x1="195" y1="1305" x2="195" y2="995"/>
+  <text class="st11" transform="translate(460.2217 1355)"><tspan x="0" y="0">Upwelling influence</tspan></text>
+  <text class="st10" transform="translate(135 1166.217) rotate(-90)"><tspan x="0" y="0">Rβ</tspan></text>
+  <text class="st13" transform="translate(141.1311 1389)"><tspan x="0" y="0">Low / absent</tspan></text>
+  <text class="st13" transform="translate(855.8569 1389)"><tspan x="0" y="0">High / present</tspan></text>
+  <line class="st2" x1="195" y1="1159.3" x2="915" y2="1165.5"/>
+  <line class="st1" x1="195" y1="1131.4" x2="915" y2="1081.8"/>
+  <circle class="st17" cx="195" cy="1159.3" r="11"/>
+  <circle class="st7" cx="915" cy="1165.5" r="11"/>
+  <rect class="st17" x="184" y="1120.4" width="22" height="22"/>
+  <rect class="st7" x="904" y="1070.8" width="22" height="22"/>
+  <text class="st16" transform="translate(591 1149.4)"><tspan x="0" y="0">Protected: weak change</tspan></text>
+  <text class="st16" transform="translate(394.8 1071.4)"><tspan x="0" y="0">Exposed: stronger replacement by functional equivalents</tspan></text>
+  <rect class="st25" x="120" y="1420" width="910" height="75"/>
+  <text class="st20" transform="translate(140 1450)"><tspan x="0" y="0">H3: if the pulse increases dispersal and resource supply, species turnover becomes increasingly</tspan></text>
+  <text class="st20" transform="translate(140 1476)"><tspan x="0" y="0">decoupled from trait turnover, raising beta redundancy.</tspan></text>
+  <line class="st3" x1="1235" y1="1180" x2="2010" y2="1180"/>
+  <path class="st0" d=""/>
+  <path class="st6" d="M1986,1168l24,12-24,12v-24Z"/>
+  <path class="st6" d="M2010,1180" marker-end="url(#arrow)"/>
+  <text class="st12" transform="translate(1374.5264 1155)"><tspan x="0" y="0">Sediment–hydrodynamic habitat template</tspan></text>
+  <text class="st14" transform="translate(1147.5962 1225)"><tspan x="0" y="0">Protected region</tspan></text>
+  <text class="st14" transform="translate(1927.4839 1225)"><tspan x="0" y="0">Exposed region</tspan></text>
+  <text class="st22" transform="translate(1126.4688 1258)"><tspan x="0" y="0">carbonates · gravel · organic matter · warmer</tspan></text>
+  <text class="st22" transform="translate(1854.353 1258)"><tspan x="0" y="0">sand · skewness · colder / upwelled</tspan></text>
+  <rect class="st23" x="1190" y="955" width="365" height="135"/>
+  <text class="st13" transform="translate(1212 993)"><tspan x="0" y="0">Errant / interface strategies</tspan></text>
+  <text class="st13" transform="translate(1212 1020)"><tspan x="0" y="0">Scavenger–opportunist feeding</tspan></text>
+  <text class="st13" transform="translate(1212 1047)"><tspan x="0" y="0">Armoured pharynx + appendages</tspan></text>
+  <rect class="st23" x="1695" y="955" width="365" height="135"/>
+  <text class="st13" transform="translate(1717 993)"><tspan x="0" y="0">Sedentary / infaunal strategies</tspan></text>
+  <text class="st13" transform="translate(1717 1020)"><tspan x="0" y="0">Deposit feeding</tspan></text>
+  <text class="st13" transform="translate(1717 1047)"><tspan x="0" y="0">Unarmoured pharynx + reduced</tspan></text>
+  <text class="st13" transform="translate(1717 1074)"><tspan x="0" y="0">appendages</tspan></text>
+  <rect class="st23" x="1190" y="1305" width="365" height="135"/>
+  <text class="st13" transform="translate(1212 1343)"><tspan x="0" y="0">Paired short palps</tspan></text>
+  <text class="st13" transform="translate(1212 1370)"><tspan x="0" y="0">Multiple prostomial appendages</tspan></text>
+  <text class="st13" transform="translate(1212 1397)"><tspan x="0" y="0">Direct development; medium size</tspan></text>
+  <rect class="st23" x="1695" y="1305" width="365" height="135"/>
+  <text class="st13" transform="translate(1717 1343)"><tspan x="0" y="0">Palps absent</tspan></text>
+  <text class="st13" transform="translate(1717 1370)"><tspan x="0" y="0">Prostomial appendages absent</tspan></text>
+  <text class="st13" transform="translate(1717 1397)"><tspan x="0" y="0">Planktotrophic larvae</tspan></text>
+  <path class="st0" d=""/>
+  <path class="st6" d="M1362,1108l8-16,8,16h-16Z"/>
+  <path class="st6" d="M1370,1092" marker-end="url(#arrow)"/>
+  <path class="st0" d=""/>
+  <path class="st6" d="M1870.97,1107.44l9.03-15.44,6.93,16.49-15.97-1.05Z"/>
+  <path class="st6" d="M1880,1092" marker-end="url(#arrow)"/>
+  <path class="st0" d=""/>
+  <path class="st6" d="M1378,1289l-8,16-8-16h16Z"/>
+  <path class="st6" d="M1370,1305" marker-end="url(#arrow)"/>
+  <path class="st0" d=""/>
+  <path class="st6" d="M1887.28,1288.66l-7.28,16.34-8.7-15.63,15.98-.71Z"/>
+  <path class="st6" d="M1880,1305" marker-end="url(#arrow)"/>
+  <rect class="st25" x="1170" y="1470" width="910" height="50"/>
+  <text class="st19" transform="translate(1190 1490)"><tspan x="0" y="0">H4: region-specific trait syndromes should map onto the ternary displacement, with sediment texture as the</tspan></text>
+  <text class="st19" transform="translate(1190 1513)"><tspan x="0" y="0">main filter and upwelling as a temporal modifier.</tspan></text>
+  <text class="st21" transform="translate(350.1308 1565)"><tspan x="0" y="0">DKG = functional dissimilarity/trait turnover; Rβ = beta redundancy; SBC = taxonomic similarity. Open symbols = non-upwelling; filled symbols = upwelling.</tspan></text>
+</svg>

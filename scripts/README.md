@@ -1,0 +1,32 @@
+# README
+
+
+# README
+
+## Projeto para particionar a betadiversidade de Arraial do Cabo
+
+Neste projeto somos capazes de decompor de forma conjunta a
+betadiversidade taxonômica e funcional de comunidades bentônicas na
+região de arraial do cabo usando o framework de [Ricotta & Pavoine
+(2024)](https://doi.org/10.1016/j.ecolind.2024.112136) seguida de uma
+análise RLQ-fourthcorner para averiguar as relações multivariadas entre
+atributos, espécies e variáveis ambientais.
+
+## Arquivos
+
+- tables: nesta pasta você encontrará os dados necessários para realizar
+  as análises em um arquivo chamado data.xlsx
+
+- script: nesta pasta você encontrará os scripts para fazer o
+  particionamento e a RLQ, bem como os gráficos oriundos destas
+  análises.
+
+- output: nesta pasta você encontrará os gráficos e tabelas gerados
+
+- manuscript: nesta pasta você encontrará o manuscrito em formado .docx
+
+## Autoria
+
+- Samuel Lucas da Silva Delgado Mendes
+- Paulo Cesar de Paiva
+- Rodolfo Nascimento

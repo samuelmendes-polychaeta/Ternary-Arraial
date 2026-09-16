@@ -171,8 +171,13 @@ TAB2 <- rbind.data.frame(TAB_Exposed, TAB_Protected)
 
 library(ggtern)
 
-TAB_ggtern = data.frame(TAB2, groups)
-ptri_july <-  ggtern(TAB_ggtern, aes(D_KG, R_beta, S_BC, color = groups)) +
+groups_TAB2 <- factor(
+  c(rep("Exposed", nrow(TAB_Exposed)), rep("Protected", nrow(TAB_Protected))),
+  levels = c("Exposed", "Protected")
+)
+
+TAB_ggtern = data.frame(TAB2, groups_TAB2)
+ptri_july <-  ggtern(TAB_ggtern, aes(D_KG, R_beta, S_BC, color = groups_TAB2)) +
   geom_point(size = 3, alpha = 0.70) +
   scale_color_manual(values = c(
     "Protected"     = "red",

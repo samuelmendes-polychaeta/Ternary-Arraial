@@ -176,6 +176,8 @@ groups_TAB2 <- factor(
   levels = c("Exposed", "Protected")
 )
 
+triangle.class(TAB2, as.factor(groups_TAB2), starSize = 0, ellipseSize=0, adjust=FALSE, showposition =FALSE, col=c("blue", "red"))
+
 TAB_ggtern = data.frame(TAB2, groups_TAB2)
 ptri_july <-  ggtern(TAB_ggtern, aes(D_KG, R_beta, S_BC, color = groups_TAB2)) +
   geom_point(size = 3, alpha = 0.70) +

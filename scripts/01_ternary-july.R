@@ -199,7 +199,7 @@ summary(Ptest)
 #Anovas
 
 
-df <- data.frame(TAB2,  groups = groups)
+df <- data.frame(TAB2,  groups = groups_TAB2)
 
 
 resultado_univariado_D_KG <- adonis2(
